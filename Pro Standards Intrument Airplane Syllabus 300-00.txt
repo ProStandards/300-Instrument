@@ -35,7 +35,7 @@ Objectives
 
 Completion StandardsIntroduction to Instrument Flight
 
-Induction to Instrument Flight
+Introduction to Instrument Flight
 Stage 1 Lesson 1
 Ground Lesson
 Lesson Time 4.0
@@ -69,7 +69,7 @@ Fitness for Flight
 
 Completion Standards
 The student demonstrates an understanding of the knowledge elements required for Fundamentals of Flight, Safety of Flight Items, and the required aeronautical knowledge elements relating to Operation of Systems and National Airspace system. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.	
-Induction to Instrument Flight
+Introduction to Instrument Flight 
 Stage 1 Lesson 2
 Maneuver Brief 
 Lesson Time 2.0
@@ -104,7 +104,7 @@ Flight Deck Management
 Taxiing
 
 Completion Standards
-The student should demonstrate proficiency in SOP procedures on the ground without missing more than one flow item per checklist.Induction to Instrument Flight
+The student should demonstrate proficiency in SOP procedures on the ground without missing more than one flow item per checklist.Introduction to Instrument Flight
 Stage 1 Lesson 3
 Dual Flight 
 Lesson Time 2.0
@@ -138,7 +138,7 @@ Normal Approach and Landing
 After Landing, Parking and Securing
 
 Completion Standards
-Induction to Instrument Flight
+Introduction to Instrument Flight
 Stage 1 Lesson 4
 Dual Flight 
 Lesson Time 2.0
@@ -624,7 +624,7 @@ Stage 2 Lesson 23
 Ground Lesson
 Lesson Time 2.0
 
-Air Traffic Control Systems and Procedures
+Departure Charts and Procedures
 
 Objectives
 
@@ -741,7 +741,7 @@ Stage 2 Lesson 28
 Ground Lesson 
 Lesson Time 2.0
 
-Air Traffic Control Systems and Procedures
+En Route Charts and Planning
 
 Objectives
 
@@ -769,7 +769,7 @@ Stage 2 Lesson 29
 Ground Lesson
 Lesson Time 2.0
 
-Air Traffic Control Systems and Procedures
+Holding Procedures
 
 Objectives
 
@@ -868,7 +868,7 @@ Objectives
 To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
 
 SBT
->> Holding Delays in SOCAL CARIF, OCN, VISTA, and ROBNN
+>> Fly with Chris to Vegas today
 
 Tasks
 Part 1.1 – Definitions and Abbreviations 
@@ -1033,7 +1033,7 @@ Stage 3 Lesson 38
 Ground Lesson
 Lesson Time 2.0
 
-Air Traffic Control Systems and Arrival Procedures
+Arrival Charts and Procedures
 
 Objectives
 
@@ -1112,7 +1112,7 @@ Stage 3 Lesson 42
 Ground Lesson
 Lesson Time 2.0
 
-Air Traffic Control Systems and Procedures
+Approach Charts and Procedures
 
 Objectives
 
@@ -1222,7 +1222,7 @@ Stage 3 Lesson 46
 Ground Lesson
 Lesson Time 2.0
 
-Air Traffic Control Systems and Procedures
+Non-Precision Approach Charts and Procedures
 
 Objectives
 
@@ -1415,7 +1415,7 @@ Stage 4 Lesson 54
 Ground Lesson
 Lesson Time 2.0
 
-Aviation Weather Theory
+Recognition of Critical Weather
 
 Objectives
 
