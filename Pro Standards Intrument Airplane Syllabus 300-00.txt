@@ -1,0 +1,1602 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument rating
+Single Engine Airplane
+Hursa Corp x Lucky Aviation 2022
+
+Table of Contents
+
+Ground Lessons
+
+Stage One
+
+Overview
+
+Objectives
+
+Completion StandardsIntroduction to Instrument Flight
+
+Induction to Instrument Flight
+Stage 1 Lesson 1
+Ground Lesson
+Lesson Time 4.0
+
+Induction to Flight
+
+Objectives
+This lesson will serve as the student’s initial ground briefing on Fundamentals of Flight, Pro Standards Flight Operations, Pro Standards checklists, and Pro Standards Procedures. Additionally, the instructor will introduce the aeronautical knowledge elements required prior to initial solo referencing applicable POH, the AFH, and the PHAK.
+
+SBT
+>>
+
+Tasks
+Introduction to Pro Standards Training Program
+Course Overview
+Required Course Materials
+Course Policies
+Professionalism
+Human Factors
+Threat and Error Management 
+Aeronautical Decision Making
+Situational Awareness
+Single-Pilot Recourse Management
+Crew Recourse Management
+Crew Communication
+Workload Management 
+Controlled Flight into Terrain
+Spatial Disorientation and Illusions
+Fitness for Flight
+
+
+Completion Standards
+The student demonstrates an understanding of the knowledge elements required for Fundamentals of Flight, Safety of Flight Items, and the required aeronautical knowledge elements relating to Operation of Systems and National Airspace system. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.	
+Induction to Instrument Flight
+Stage 1 Lesson 2
+Maneuver Brief 
+Lesson Time 2.0
+
+
+Objectives
+Introduce the Pro Standards SOP, and FOM with an emphasis on IFR operations.
+
+SBT
+>> KSAN to KLAS San Diego weather is OVC200 1 1/2 SM -RN
+
+Tasks
+Pro Standards Checklist Philosophy (SOP)
+Initial Aircraft Acceptance (SOP)
+Standard Callouts (SOP)
+Use of Checklists
+Positive Exchange of Flight Controls
+Before Start (SOP)
+Engine Priming (SOP)
+Engine Starting (SOP)
+Before Taxi (SOP)
+Before Takeoff (SOP)
+Instrument Takeoff (SOP)
+Climb (SOP)
+Cruise (SOP)
+Decent (SOP)
+Approach (SOP)
+Deviations and Call outs (SOP)
+After Landing (SOP)
+Shutdown/Secure (SOP)
+Flight Deck Management
+Taxiing
+
+Completion Standards
+The student should demonstrate proficiency in SOP procedures on the ground without missing more than one flow item per checklist.Induction to Instrument Flight
+Stage 1 Lesson 3
+Dual Flight 
+Lesson Time 2.0
+
+
+Objectives
+The Student should gain experience by conducting VFR cross-countries, focusing on SOP and standard call outs. 
+
+SBT
+>> XC to KSBA
+
+Tasks
+Safety of Flight
+Aeronautical Decision Making and Risk Management
+Collision Hazards
+Controlled Flight into Terrain Awareness
+Weather Information
+Performance and Limitations
+Human Factors
+Standard Operating Procedurs
+Preflight Assessment
+Flight Deck Management
+Engine Starting
+Taxiing
+Before Takeoff Check
+Communications, Light Signals, and Runway Lighting Systems
+Traffic Patterns
+Airport, Taxiway, and Runway Signs and Markings
+Normal Takeoff and Climb
+Normal Approach and Landing
+After Landing, Parking and Securing
+
+Completion Standards
+Induction to Instrument Flight
+Stage 1 Lesson 4
+Dual Flight 
+Lesson Time 2.0
+
+
+Objectives
+The Student should gain experience by conducting VFR cross-countries, focusing on SOP and standard call outs. 
+
+SBT
+>> XC to KAVX - L35
+
+Tasks
+Safety of Flight
+Aeronautical Decision Making and Risk Management
+Collision Hazards
+Controlled Flight into Terrain Awareness
+Weather Information
+Performance and Limitations
+Human Factors
+Standard Operating Procedurs
+Preflight Assessment
+Flight Deck Management
+Engine Starting
+Taxiing
+Before Takeoff Check
+Communications, Light Signals, and Runway Lighting Systems
+Traffic Patterns
+Airport, Taxiway, and Runway Signs and Markings
+Normal Takeoff and Climb
+Normal Approach and Landing
+After Landing, Parking and Securing
+
+Completion Standards
+Basic Attitude Instrument
+
+Basic Attitude Instrument
+Stage 1 Lesson 5
+Ground Lesson
+Lesson Time 2.0
+
+Flight Instruments Systems
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Pitot-Static Instruments
+Airspeed Indicator 
+Altimeter 
+Vertical Speed Indicator 
+Systems Errors 
+Gyroscopic Flight Instruments 
+Attitude Indicator 
+Heading Indicator 
+Rate of Turn Indicators 
+Slip/skid Indicator 
+Magnetic Compass 
+Instrument Checks 
+Air Data Computer
+Attitude Heading Reference
+Electronic Flight Instruments
+Electronic Instrument Checks
+Electronic Instrument Failures and System Errors
+
+
+Completion Standards
+Basic Attitude Instrument
+Stage 1 Lesson 6
+Maneuvers Brief 
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Fundamental IFR Skills
+Control-Performance Method
+Instrument Cockpit Check
+Instrument Interpretation
+Airplane Control
+Primary Supporting Concept
+Straight and Level Flight
+Change of Airspeed and Configuration
+Climbing and Descending Turns
+Turns to Predetermined Headings
+Instrument Takeoff
+Vertical S
+BAI Patterns
+Steep Turns
+Common Errors
+
+Completion Standards
+Basic Attitude Instrument
+Stage 1 Lesson 7
+Flight Lesson 
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Fundamental IFR Skills
+Control-Performance Method
+Instrument Cockpit Check
+Straight and Level Flight
+Change of Airspeed and Configuration
+Climbing and Descending Turns
+Turns to Predetermined Headings
+Instrument Takeoff
+Vertical S
+Compliance with Air Traffic Control Clearances
+Checklist Usage
+SOP Callouts
+
+Completion StandardsBasic Attitude Instrument
+Stage 1 Lesson 8
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Fundamental IFR Skills
+Control-Performance Method
+Instrument Cockpit Check
+Straight and Level Flight
+Change of Airspeed and Configuration
+Climbing and Descending Turns
+Turns to Predetermined Headings
+Instrument Takeoff
+Vertical S
+BAI Patterns
+Steep Turns
+Compliance with Air Traffic Control Clearances
+Checklist Usage
+SOP Callouts
+
+Completion StandardsBasic Attitude Instrument
+Stage 1 Lesson 9
+Ground Lesson
+Lesson Time 2.0
+
+Traditional Navigation Systems
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Basic Radio Principles 
+NDB/ADF 
+Operational Errors 
+VOR 
+Operational Errors 
+VOR Receiver Checks 
+Operational Errors 
+DME Arc 
+ILS/ILS Components 
+Operational Errors 
+SDF/LDA 
+Radar 
+Basic Attitude Instrument
+Stage 1 Lesson 10
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Fundamental IFR Skills
+Control-Performance Method
+Instrument Cockpit Check
+Straight and Level Flight
+Change of Airspeed and Configuration
+Climbing and Descending Turns
+Turns to Predetermined Headings
+Instrument Takeoff
+Vertical S
+BAI Patterns
+Steep Turns
+Compliance with Air Traffic Control Clearances
+
+Completion StandardsBasic Attitude Instrument
+Stage 1 Lesson 11
+Maneuver Briefing
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Airplane Systems
+System and Equipment Malfunctions
+Timed Turns
+Magnetic Compass Turns 
+Loss of Primary Flight Instrument Indications
+Coping With Instrument Failure 
+Partial Panel Flying 
+Timed Turns 
+Unusual Attitude Recovery 
+Electronic Flight Instrument Operational Considerations 
+
+
+Completion StandardsBasic Attitude Instrument
+Stage 1 Lesson 12
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+System and Equipment Malfunctions
+Straight and Level Flight [Partial Panel]
+Change of Airspeed and Configuration [Partial Panel]
+Straight Climbs and Descending [Partial Panel]
+Climbing and Descending Turns [Partial Panel] 
+Vertical S [Partial Panel]
+Timed Turns
+Magnetic Compass Turns 
+Loss of Primary Flight Instrument Indications
+Checklist Usage
+Standard Callouts
+
+Completion StandardsBasic Attitude Instrument
+Stage 1 Lesson 13
+Ground Lesson
+Lesson Time 2.0
+
+Next Generation Navigation Systems
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Area Navigation (RNAV) 
+Global Positioning System (GPS) 
+WAAS 
+Required Navigation Performance
+
+Completion StandardsBasic Attitude Instrument
+Stage 1 Lesson 14
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+System and Equipment Malfunctions
+Straight and Level Flight [Partial Panel]
+Change of Airspeed and Configuration [Partial Panel]
+Straight Climbs and Descending [Partial Panel]
+Climbing and Descending Turns [Partial Panel] 
+Vertical S [Partial Panel]
+Timed Turns
+Magnetic Compass Turns 
+Loss of Primary Flight Instrument Indications
+Checklist Usage
+Standard Callouts
+
+Completion StandardsSystems Validation
+
+SV
+Stage 1 Lesson 15
+Validation 
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Aircraft Systems
+Aircraft Flight Instruments
+Aircraft Limitations
+Memory Items
+
+Completion StandardsUpset Recovery
+
+Upset Recovery
+Stage 1 Lesson 16
+Ground Lesson
+Lesson Time 2.0
+
+Upset and IFR Emergencies
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Upsets
+Upset Recovery
+Upset Recovery [Partial Panel]
+EET
+Declaring an Emergency 
+Minimum Fuel 
+Gyroscopic Instrument Failure 
+Emergency Approach Procedures 
+Communications Failure 
+Malfunction Reports 
+Electronic Flight Instrument Operational Considerations
+
+
+Completion StandardsUpset Recovery
+Stage 1 Lesson 17
+Maneuver Brief
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Upset Recovery
+Upset Recovery [Partial Panel]
+
+Completion StandardsUpset Recovery
+Stage 1 Lesson 18
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Upset Recovery
+Upset Recovery [Partial Panel]
+
+Completion StandardsUpset Recovery
+Stage 1 Lesson 19
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Upset Recovery
+Upset Recovery [Partial Panel]
+
+Completion StandardsUpset Recovery
+Stage 1 Lesson 20
+Ground Lesson
+Lesson Time 2.0
+
+Airports, Airspace, and IFR Environment
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Airport/Facility Directory (A/FD) 
+Aeronautical Information Manual (AIM) 
+Notices to Airmen (NOTAMs) 
+Advisory Circulars 
+The Airport Environment 
+Runway and taxiway signs, markings and lighting 
+Runway Incursion Avoidance 
+Land and Hold Short Operations (LAHSO) 
+Approach Light Systems 
+Visual Glide Slope Indicators 
+IFR Operations in the National Airspace System Upset Recovery
+Stage 1 Lesson 21
+Ground Lesson 
+Lesson Time 2.0
+
+Air Traffic Control Systems and Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Air Traffic Control System 
+Procedures for Instrument Flight Operations 
+IFR Flight Plan and ATC Clearance 
+Elements of an IFR Clearance 
+Abbreviated IFR Departure Clearance 
+Cruise Clearance 
+VFR on Top Clearance 
+Composite Flight Plan 
+Tower Enroute Control Clearance (TEC) 
+Departure Restrictions 
+Clearance Void Time 
+Clearance Read back 
+Clearance ShorthandStage Two
+
+Overview
+
+Objectives
+
+Completion StandardsDepartures
+
+Departures
+Stage 2 Lesson 22
+Ground Lesson
+Lesson Time 2.0
+
+Airports, Airspace, and IFR Environment
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Airport/Facility Directory (A/FD) 
+Aeronautical Information Manual (AIM) 
+Notices to Airmen (NOTAMs) 
+Advisory Circulars 
+The Airport Environment 
+Runway and taxiway signs, markings and lighting 
+Runway Incursion Avoidance 
+Land and Hold Short Operations (LAHSO) 
+Approach Light Systems 
+Visual Glide Slope Indicators 
+IFR Operations in the National Airspace System Departures
+Stage 2 Lesson 23
+Ground Lesson
+Lesson Time 2.0
+
+Air Traffic Control Systems and Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Departure Charts 
+Departure Standards 
+U.S. Standards for Terminal Instrument Procedures (TERPS) 
+Takeoff Minimums 
+Departure Options 
+IFR Departure Procedures 
+Departures
+Stage 2 Lesson 24
+Maneuvers Brief 
+Lesson Time 2.0
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Aircraft Navigation Equipment
+Intercepting and Tracking Navigational Systems
+Intercepting and Tracking Arcs
+Radar Vectors
+Departure Procedures
+
+Completion Standards
+The student demonstrates an understanding of the elements related to airplane navigation equipment and intercepting and tracking navigational systems, arcs, and departure en route, and arrival operations. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
+Departures
+Stage 2 Lesson 25
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+This lesson will serve as practice in the aircraft, of the procedures associated with intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> ODP - KRNM ODP
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Intercepting and Tracking Navigation Systems
+Intercepting and Tracking Arcs
+Departure Procedures
+Radar Vectors
+Checklist Usage
+Standard Callouts 
+
+Completion Standards
+This Lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to airplane navigation equipment and intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations by performing the tasks solely by reference to instruments in accordance with the ERAU Standardization Manual and Instrument Rating Airplane Airman Certification Standards.
+Departures
+Stage 2 Lesson 26
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+This lesson will serve as practice in the aircraft, of the procedures associated with intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> ODP - KPSP for Cathedral(x) Departure 
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Intercepting and Tracking Navigation Systems
+Intercepting and Tracking Arcs
+Departure Procedures
+Radar Vectors
+Checklist Usage
+Standard Callouts 
+
+Completion Standards
+This Lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to airplane navigation equipment and intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations by performing the tasks solely by reference to instruments in accordance with the ERAU Standardization Manual and Instrument Rating Airplane Airman Certification Standards.
+Departures
+Stage 2 Lesson 27
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+This lesson will serve as practice in the aircraft, of the procedures associated with intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> ODP - KPSP for Cathedral(x) Departure 
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Systems and Equipment Malfunctions
+Instrument Takeoff
+Intercepting and Tracking Navigation Systems [Partial Panel]
+Intercepting and Tracking Arcs [Partial Panel]
+Departure Procedures [Partial Panel]
+Radar Vectors [Partial Panel]
+Checklist Usage
+Standard Callouts 
+
+Completion Standards
+This Lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to airplane navigation equipment and intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations by performing the tasks solely by reference to instruments in accordance with the ERAU Standardization Manual and Instrument Rating Airplane Airman Certification Standards.En Route
+
+En Route
+Stage 2 Lesson 28
+Ground Lesson 
+Lesson Time 2.0
+
+Air Traffic Control Systems and Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Enroute Charts 
+Front Panel 
+Navigation Aids 
+Victor Airways 
+Communication 
+Airports 
+Airspace 
+Area Charts 
+Enroute Procedures 
+Communication 
+Radar and Non-Radar Reports 
+Reporting Procedures 
+IFR Cruising Altitudes 
+Descending From the Enroute Segment
+En Route
+Stage 2 Lesson 29
+Ground Lesson
+Lesson Time 2.0
+
+Air Traffic Control Systems and Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+ATC Holding Instructions 
+Holding Pattern Terminology 
+Holding Pattern Entry Procedures 
+Crosswind Correction 
+Maximum Holding Speeds 
+En Route
+Stage 2 Lesson 30
+Maneuvers Brief
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> Holding Delays in SOCAL CARIF, OCN, VISTA, and ROBNN
+
+Tasks
+Holding Procedures
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
+
+
+En Route
+Stage 2 Lesson 31
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> Holding Delays in SOCAL CARIF, OCN, VISTA, and ROBNN
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Departure Procedures
+En Route Procedures
+Intercepting and Tracking Navigational Systems
+VOR Holds
+DME Holds
+Intersection Holds
+GPS Holds
+Checklist Usage
+Standard Callouts
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
+En Route
+Stage 2 Lesson 32
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> Holding Delays in SOCAL CARIF, OCN, VISTA, and ROBNN
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Departure Procedures
+En Route Procedures
+Intercepting and Tracking Navigational Systems
+VOR Holds
+DME Holds
+Intersection Holds
+GPS Holds
+Checklist Usage
+Standard Callouts
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+Stage 2 Lesson 33
+Ground Lesson
+Lesson Time 2.0
+
+IFR Regulations
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> Holding Delays in SOCAL CARIF, OCN, VISTA, and ROBNN
+
+Tasks
+Part 1.1 – Definitions and Abbreviations 
+Part 1.2 – Abbreviations and Symbols 
+Part 1.3 – Rules of Construction 
+Part 61.51 – Pilot Logbooks 
+Part 61.57 – Recent Flight Experience: Pilot in Command 
+Part 61.133 – Commercial Pilot Privileges and Limitations 
+Part 91.21 – Portable Electronic Devices 
+Part 91.103 – Preflight Action 
+Part 91.109 – Flight Instruction; Simulated Instrument Flight 
+Part 91.113 – Right-of-Way Rules: Except Water Operations 
+Part 91.121 – Altimeter Settings 
+Part 91.123 – Compliance with ATC Clearances and Instructions 
+Part 91.131 – Operations in Class B Airspace 
+Part 91.135 – Operations in Class A Airspace 
+Part 91.167 – Fuel Requirements for Flight in IFR Conditions 
+Part 91.169 – IFR Flight Plan: Information Required 
+Part 91.171 – VOR Equipment Check for IFR Operations 
+Part 91.173 – ATC Clearance and Flight Plan Required 
+Part 91.175 – Takeoff and Landing under IFR 
+Part 91.177 – Minimum Altitudes for IFR Operations 
+Part 91.179 – IFR Cruising Altitude or Flight Level 
+Part 91.181 – Course to be flown 
+Part 91.183 – IFR Radio Communications 
+Part 91.185 – Two-Way Radio Communications Failure 
+Part 91.187 – IFR in Controlled Airspace: Malfunction Reports 
+Part 91.205 – Instrument & Equipment Requirements 
+NTSB 830 – Notification and Reporting of Accidents or Incidents 
+En Route
+Stage 2 Lesson 34
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>> Holding Delays in SOCAL CARIF, OCN, VISTA, and ROBNN
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Departure Procedures [Partial Panel]
+En Route Procedures [Partial Panel]
+Intercepting and Tracking Navigational Systems [Partial Panel]
+VOR Holds [Partial Panel]
+DME Holds [Partial Panel]
+Intersection Holds [Partial Panel]
+GPS Holds [Partial Panel]
+Checklist Usage
+Standard Callouts
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+Stage 2 Lesson 35
+Maneuvers Brief
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>>
+
+Tasks
+DME Arcs
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+Stage 2 Lesson 36
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Departure Procedures
+En Route Procedures
+Intercepting and Tracking Navigational Systems
+GPS Holds
+DME Arcs
+Checklist Usage
+Standard Callouts
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+Stage 2 Lesson 36
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Departure Procedures [Partial Panel]
+En Route Procedures [Partial Panel]
+Intercepting and Tracking Navigational Systems [Partial Panel]
+GPS Holds [Partial Panel]
+DME Arcs [Partial Panel]
+Checklist Usage
+Standard Callouts
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Maneuvers Validation
+
+MV
+Stage 2 Lesson 37
+Validation
+Lesson Time 2.0
+
+
+Objectives
+To teach the student the aeronautical knowledge and skills related to the elements of holding procedures and airplane systems related to IFR operations. All Skills will be performed solely by reference to instruments.
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with Air Traffic Control Clearances
+Instrument Takeoff
+Departure Procedures
+En Route Procedures
+Intercepting and Tracking Navigational Systems
+GPS Holds
+DME Arcs
+Instrument Flight [Partial Panel]
+Holds [Partial Panel]
+Checklist Usage
+Standard Callouts
+
+Completion Standards
+The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Stage Three
+
+Overview
+
+Objectives
+
+Completion StandardsArrivals
+
+Arrivals
+Stage 3 Lesson 38
+Ground Lesson
+Lesson Time 2.0
+
+Air Traffic Control Systems and Arrival Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Arrival Charts 
+Standard Terminal Arrival Route (STAR) 
+Interpreting the STAR 
+Vertical Navigation Planning 
+Arrival Procedures
+Arrivals
+Stage 3 Lesson 39
+Maneuver Brief
+Lesson Time 2.0
+
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Aircraft Navigation Equipment
+Intercepting and Tracking Navigational Systems
+Arrival Procedures
+Standard Operating Procedures
+Checklist Usage
+
+Completion Standards
+Arrivals
+Stage 3 Lesson 40
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Aircraft Navigation Equipment
+Intercepting and Tracking Navigational Systems
+Arrival Procedures
+Standard Operating Procedures
+Checklist Usage
+
+Completion Standards
+Arrivals
+Stage 3 Lesson 41
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Aircraft Navigation Equipment
+Intercepting and Tracking Navigational Systems
+Arrival Procedures
+Standard Operating Procedures
+Checklist Usage
+
+Completion Standards
+Approaches
+
+Approaches
+Stage 3 Lesson 42
+Ground Lesson
+Lesson Time 2.0
+
+Air Traffic Control Systems and Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+Overview/Purpose 
+Non-Precision vs. Precision 
+Visual/Contact 
+Approach Segments 
+Feeder Routes 
+Initial Approach Segment 
+Intermediate Approach Segment 
+Final Approach Segment 
+Missed Approach Segment 
+Chart Layout 
+Heading Section 
+Plan View 
+Profile View 
+Landing Minimums 
+Airport Diagram 
+Preparing for the Approach 
+Approach Clearance 
+Executing the Approach 
+Straight-In Approach 
+Straight-in Landing 
+Radar Vectors 
+Approaches Which Require Course Reversal 
+Timed Approaches from a Holding Fix 
+Final Approach 
+Circling Approaches 
+Sidestep Maneuver 
+Missed Approach Procedures 
+GPS Operational Considerations Approaches
+Stage 3 Lesson 43
+Maneuver Brief
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Precision Approach
+Missed Approach
+Landing From a Straight in or Circling Approach
+ILS Categories and Minimums 
+Flying the ILS 
+Localizer Approach 
+Localizer Back Course Approach 
+LDA, SDF, and MLS Approaches
+
+Completion Standards
+Approaches
+Stage 3 Lesson 44
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Precision Approach
+Missed Approach
+Landing From a Straight in or Circling Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion Standards
+Approaches
+Stage 3 Lesson 45
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Precision Approach
+Missed Approach
+Landing From a Straight-In Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsApproaches
+Stage 3 Lesson 46
+Ground Lesson
+Lesson Time 2.0
+
+Air Traffic Control Systems and Procedures
+
+Objectives
+
+
+SBT
+>>
+
+Tasks
+VOR Approaches 
+GPS and RNAV Approaches 
+VOR/DME RNAV Approaches 
+NDB Approaches 
+Approaches
+Stage 3 Lesson 47
+Maneuver Brief
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Non-Precision Approach
+Missed Approach
+Circling Approach
+Landing from a Straight-In Approach
+Circling Approaches
+MDA
+
+Completion StandardsApproaches
+Stage 3 Lesson 48
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Non-Precision Approach (GPS)
+Approach with Loss of Primary Flight Instrument Indications
+Missed Approach
+Landing From a Straight-In Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsApproaches
+Stage 3 Lesson 49
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Non-Precision Approach (VOR)
+Approach with Loss of Primary Flight Instrument Indications
+Missed Approach
+Landing From a Straight-In Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsApproaches
+Stage 3 Lesson 50
+Ground Lesson
+Lesson Time 2.0
+
+Aviation Weather Products
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Aviation Routine Weather Reports (METARs) 
+Pilot Weather Reports (PIREP) 
+Terminal Aerodrome Forecasts (TAF) 
+Aviation Area Forecast (FA) 
+Winds and Temperatures Aloft Forecast (FD) 
+Surface Analysis Chart 
+Weather Depiction Chart 
+Radar Summary Chart 
+Constant Pressure Analysis Chart 
+Freezing Level Chart/Stability Chart 
+Observed Winds and Temperatures Aloft Chart 
+U.S. Low-Level Significant Weather Prognostic Chart 
+U.S. High-Level Significant Weather Prognostic 
+Approaches
+Stage 3 Lesson 51
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Non-Precision Approach (LOC)
+Approach with Loss of Primary Flight Instrument Indications
+Missed Approach
+Landing From a Straight-In Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsApproaches
+Stage 3 Lesson 52
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Non-Precision Approach (Other)
+Approach with Loss of Primary Flight Instrument Indications
+Missed Approach
+Landing From a Straight-In Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsProcedures Validation
+
+PV
+Stage 3 Lesson 53
+Validation
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Instrument Cockpit Check
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure, En route and Arrival Procedures 
+Holding
+Non-Precision Approach (Other)
+Approach with Loss of Primary Flight Instrument Indications
+Missed Approach
+Landing From a Straight-In Approach
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsStage Four
+
+Overview
+
+Objectives
+
+Completion StandardsLOFT
+
+LOFT
+Stage 4 Lesson 54
+Ground Lesson
+Lesson Time 2.0
+
+Aviation Weather Theory
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Weather Hazards 
+Thunderstorm Avoidance 
+Turbulence 
+Wind Shear Avoidance 
+Microburst 
+Clouds and Fog 
+Structural Icing 
+Preflight Weather Briefing 
+Airmet (WA), Sigmet (WS), Convective Sigmet (WST) 
+Enroute Flight Advisory Service (EFAS) 
+Hazardous In-Flight Weather Advisory Service (HIWAS) 
+Transcribed Weather Broadcasts (TWEB) 
+Automated Surface Observation System (ASOS) 
+Automated Weather Observing Systems (AWOS) 
+Weather Radar Services
+LOFT
+Stage 4 Lesson 55
+Ground Lesson
+Lesson Time 4.0
+
+Instrument Flight Planning
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Weather Information
+Cross-Country Flight Planning
+Loss of Communications
+Pilot Qualifications 
+Pre-planning Preparation 
+IFR Route Selection 
+Departure Segment 
+Arrival Segment 
+En route Segment 
+Applicable Federal Aviation Regulations 
+IFR Flight Planning Process 
+Navigation Log 
+Filing an IFR Flight Plan 
+Closing an IFR Flight Plan 
+GPS Operational Considerations 
+
+
+Completion StandardsLOFT
+Stage 4 Lesson 56
+Flight Lesson
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Weather Information
+Cross-Country Flight Planning
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure Procedures
+Precision Approach
+Non-Precision Approach
+Landing from a Straight-In or Circling Approach
+Loss of Communications
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsLOFT
+Stage 4 Lesson 57
+Flight Lesson
+Lesson Time 20.0
+
+
+Objectives
+
+SBT
+>> Day 1 SAN // KPHX // KLAS 
+>> Day 2 KMRY
+>> Day 2 KPRB // KCMA // SAN
+
+
+Tasks
+Weather Information
+Cross-Country Flight Planning
+Compliance with ATC Clearances
+Instrument Takeoff
+Departure Procedures
+Precision Approach
+Non-Precision Approach
+Missed Approach
+Landing from a Straight-In or Circling Approach
+Loss of Communications
+Checklist Usage
+Standard Operating Procedures
+
+Completion StandardsLOFT
+Stage 4 Lesson 58
+Flight Lesson
+Lesson Time 4.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Weather Information
+Cross-Country Flight Planning
+Airplane systems related to IFR Operations
+Airplane Flight Instruments and Navigation Equipment
+Compliance with ATC Clearances
+Departure, En Route and Arrival Procedures
+Holding Procedures
+Loss of Communications
+Pilot Qualifications
+Course Deficient Items
+
+Completion StandardsKnowledge Validation
+
+KV
+Stage 4 Lesson 59
+Validation
+Lesson Time 2.0
+
+
+Objectives
+
+SBT
+>>
+
+Tasks
+Weather Information
+Cross-Country Flight Planning
+Airplane systems related to IFR Operations
+Airplane Flight Instruments and Navigation Equipment
+Compliance with ATC Clearances
+Departure, En Route and Arrival Procedures
+Holding Procedures
+Loss of Communications
+Pilot Qualifications
+
+Completion StandardsInstrument Rating Evaluation
+
+IRE
+Stage 4 Lesson 60
+Evaluation
+Lesson Time 2.0
+
+
+Objectives
+To determine through flight evaluation that the student possesses the required aeronautical skills to safely conduct flight operations as an FAA rated Instrument Pilot. All Skills will be performed in accordance with the Instrument Rating Airplane Airman Certification Standards.
+
+SBT
+>>
+
+Tasks
+Instrument Flight Deck Check
+Compliance with ATC Clearances
+Departure, En Route, and Arrival Operations
+Instrument Flight
+Holding Procedures
+Intercepting and Tracking Navigation Systems
+DME ARCS
+Precision Approaches
+Non-Precision Approaches
+Circling Approach
+Missed Approach
+Landing From a Straight-In or Circling Approach
+Recovery From Unusual Attitudes
+Approach with Loss of Primary Flight Instrument Indications
+Checking Instruments and Equipment
+
+Completion Standards
+The student demonstrates the required aeronautical skills to safely conduct flight operations as an FAA rated Instrument Pilot by meeting the standards prescribed in the Instrument Rating Airplane Airman Certification Standards.
