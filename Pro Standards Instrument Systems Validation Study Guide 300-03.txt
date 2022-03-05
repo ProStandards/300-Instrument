@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUMENT AIRPLANE SYSTEMS VALIDATION
+STUDY GUIDEFlight Instruments
+
+What instrument(s) does the pitot-static system supply? [POH 7-31]
+
+
+What instrument(s) does the pitot system (ram air) supply? [POH 7-31]
+
+
+Where is the pitot tube mounted? [POH 7-31]
+
+
+What happens when you turn the PITOT HT switch on? [POH 7-31]
+
+
+Where would you find the static pressure alternate source? [POH 7-31]
+
+
+What is an indication when using the alternate static source? [PHAK 8-2]
+
+
+What is the significance of the white arc on the airspeed indicator? [POH 2-5]
+
+
+What is the significance of the green arc on the airspeed indicator? [POH 2-5]
+
+
+What is the significance of the yellow arc on the airspeed indicator? [POH 2-5]
+
+
+How does the GL275 get heading information? [Garmin GL 275 Pilots Guide 3]
+
+
+How ADAHRS require GPS information? [GI 275 STC 15]
+
+
+What is ADAHRS? [Garmin GI 275 Pilots Guide 3]
+
+
+The red arrows on the GI 275 ADI point to what? [Garmin GI 275 Pilots Guide 55]
+
+
+The aircraft is parked on the ramp with a direct head wind of 70 KTS, what will the airspeed indicate? [PHAK 8-2]
+
+
+During the instrument cockpit check what is the tolerance for the altimeter? [PHAK 8-7]
+
+
+What should the VSI indicate on the instrument cockpit check? [PHAK 8-8]
+
+
+During the instrument cockpit check the GI 275 ADI should indicate______. [GI 275 STC 44]
+
+
+What should the Airspeed indicate on the instrument cockpit check? [PHAK 8-10]
+
+
+How do you check the status of the ADAHRS (LRUs) on the GI 275? [GI 275 STC 51]
+
+
+How do you check the mag compass during the instrument cockpit check? [PHAK 8-24]
+
+
+How long does it take for the VSI to show trend information? [PHAK 8-8]
+
+
+How long does it take for the VSI to show rate information? [PHAK 8-8]
+
+
+What would the Airspeed indicate if the pitot tube was blocked? [PHAK 8-10]
+
+What would the Airspeed indicate if the pitot tube and drain hole was blocked? [PHAK 8-10]
+
+
+What would the Airspeed indicate if the static was blocked in a climb? [PHAK 8-11]
+
+
+What would the Altimeter indicate if the static was blocked in a climb? [PHAK 8-11]
+
+
+What would the VSI indicate if the static was blocked in a climb? [PHAK 8-11]
+
+
+On the altimeter the static pressure goes into the_________. [PHAK 8-3]
+
+
+On the airspeed indicator the dynamic pressure goes into the_________. [PHAK 8-3]
+
+
+On the airspeed indicator the static pressure goes into the_________. [PHAK 8-8]
+
+
+On the VSI the static pressure goes into the_________. [PHAK 8-7]
+
+
+If the ADC fails, what indication should you see? [GI 275 STC 30]
+
+
+If the AHRS fails, what indications should you see? [GI 275 STC 29]
+
+
+Which are magnetic compass errors? [PHAK 8-24]
+
+
+What is the default selection of the GI 275 ADI inner knob? [GI 275 STC 56]
+
+
+How do you set the altitude bug on the GI 275 ADI? [GI 275 STC 59]
+
+
+What does a magenta altitude display on the GI 275 ADI indicate? [GI 275 STC 30]
+
+
+How do you set the heading bug on the GI 275 ADI? [GI 275 STC 59]
+
+
+Departing KLAS with an altimeter setting 30.47, you land at KDLH with a current altimeter setting of 29.23, what altitude will you be at? [PHAK 8-2]
+
+
+Arriving at KDLH, the temperature is -30C. What will your altimeter indicate? [PHAK 8-2]
+Limitations
+
+What is never exceed speed? [POH 2-4]
+
+
+What is maximum structural cruising speed? [POH 2-4]
+
+
+What is maneuvering speed at 1950lbs? [POH 2-4]
+
+
+What is maximum flaps extended speed speed? [POH 2-4]
+
+
+You suddenly need fresh air, what is maximum window open speed? [POH 2-4]
+
+
+A stranger in the Signature lobby asks how much power your engine makes. [POH 2-5]
+
+
+What is maximum engine speed? [POH 2-5]
+
+
+The minimum oil pressure after start is_____. [POH 2-6]
+
+
+What is the normal operating rage for oil temperature? [POH 2-6]
+
+
+What is maximum takeoff weight? [POH 2-6]
+	
+
+What is maximum landing weight? [POH 2-6]
+
+
+What is maximum baggage area 1 weight? [POH 2-6]
+
+
+What is maximum baggage area 2 weight? [POH 2-6]
+
+
+What is maximum utility weight? [POH 2-7]
+
+
+What is maximum baggage compartment weight for utility category? [POH 2-7]
+
+
+What is flight load factor limits with the flaps up? [POH 2-8]
+
+
+What kinds of operations is the airplane equipped for? [POH 2-9]
+	
+
+Maximum fuel capacity when refueling. [POH 2-9]
+	
+
+What is takeoff and landing setting for the fuel selector? [POH 2-9]
+
+
+The correct fuel is_____. [POH 2-9]
+
+
+What is the minimum software version for GI 275? [GI 275 STC 18]
+	
+
+Can you use QFE with the GI 275 ADI? [GI 275 STC 18]
+
+
+Can you use moving map as the primary or sole means or navigation or course guidance on the GI 275 HSI? [GI 275 STC 18]
+
+
+
+
+Aircraft Systems
+
+What is the construction of the fuselage? [POH 7-3]
+
+
+What is the fuselage made out of? [POH 7-3]
+
+
+What style flaps does the C172N have? [POH 7-3]
+
+
+How are the flight controls actuated? [POH 7-8]
+
+
+How are the flaps actuated? [POH 7-10]
+
+
+The wing flap system is______. [POH 7-10]
+
+
+What type of landing gear does the C172N have? [POH 7-10]
+
+
+What type of brakes does the C172N have? [POH 7-3]
+
+
+How many cylinders does the engine have? [POH 7-16]
+
+
+What controls the amount of air in the carburetor? [POH 7-16]
+
+
+What controls the amount of fuel in the carburetor? [POH 7-16]
+
+
+What is the capacity if the engine oil sump? [POH 7-18]
+
+
+What is the minimum oil quantity to operate? [POH 7-18]
+
+
+What are the R and L positions for on the ingestion switch? [POH 7-19]
+
+
+What is the standard total usable fuel? [POH 7-20]
+
+
+What is the total unusable fuel? [POH 7-20]
+
+
+What is the total fuel? [POH 7-20]
+
+
+What controls fuel flow? [POH 7-22]
+
+
+How does the fuel flow in the LEFT selector valve position? [POH 7-22]
+
+
+How many volts in the electrical system? [POH 7-23]
+
+
+What type of current is the electrical system? [POH 7-23]
+
+
+What instrument will run with the master off? [POH 7-24]
+
+
+What bus bar is energized when the master is turned on? [POH 7-25]
+
+
+What does the left half of the master switch control? [POH 7-25]
+
+
+What supplies windshield defrost air? [POH 7-31]
+
+
+What type of stall warning system do we have? [POH 7-34]
+
+
+What is recommended to improve radio communities during IMC flight? [POH 7-25]
+
