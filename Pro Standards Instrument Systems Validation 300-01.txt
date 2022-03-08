@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSTRUMENT AIRPLANE SYSTEMS VALIDATIONAIRMAN INFORMATION
+
+
+
+NAME
+
+DATE
+
+TEST ADMINISTERED BY
+
+RECOMMENDING INSTRUCTOR
+
+RESULTSFlight Instruments
+
+>>Today you will be flying from San Diego to Las Vegas to pick up the Director of Maintenance and then continue to Duluth, Minnesota to pick up Pro Standards’ newest SR22T from the Cirrus Factory.
+
+
+What instrument(s) does the pitot-static system supply? [POH 7-31]
+	A. Heading and attitude
+	B. Airspeed, altimeter and VSI
+	C. Altimeter, VSI, and transponder
+
+What instrument(s) does the pitot system (ram air) supply? [POH 7-31]
+	A. Airspeed
+	B. Airspeed, VSI
+	C. Altimeter, VSI, and transponder
+
+Where is the pitot tube mounted? [POH 7-31]
+	A. Lower surface of left wing
+	B. Lower surface of right wing
+	C. Left side of cowling
+
+The KDLH METAR shows -30° C, What happens when you turn the PITOT HT switch on? [POH 7-31]
+	A. The ADS-B out is activated
+	B. It is heated with bleed air from exhaust manifold
+	C. The element in the pitot tube is heated electrically
+
+You suspect a static blockage due to a bee strike en route to KLAS, where would you find the static pressure alternate source? [POH 7-31]
+	A. Under the circuit breakers
+	B. Left of the throttle
+	C. The GI 275 will automatically switch to ADC 2
+
+What is an indication when using the alternate static source? [PHAK 8-2]
+	A. The altimeter indicates a slightly higher altitude than actual
+	B. The altimeter indicates a slightly lower altitude than actual
+	C. The altimeter indicates a normally 
+
+What is the significance of the white arc on the airspeed indicator? [POH 2-5]
+	A. Normal operating range
+	B. Smooth air operations only
+	C. Full flap operating range
+
+What is the significance of the green arc on the airspeed indicator? [POH 2-5]
+	A. Normal operating range
+	B. Smooth air operations only
+	C. Full flap operating range
+
+What is the significance of the yellow arc on the airspeed indicator? [POH 2-5]
+	A. Normal operating range
+	B. Smooth air operations only
+	C. Full flap operating range
+
+En route to KLAS, Skywest 3420 report GPS outages along your route. How does the GL275 get heading information? [Garmin GL 275 Pilots Guide 3]
+	A. ADAHRS
+	B. GPS
+	C. Magnetometer
+
+Does ADAHRS require GPS information? [GI 275 STC 15]
+	A. Yes
+	B. No
+	C. Only if its a VFR GPS
+
+What is ADAHRS? [Garmin GI 275 Pilots Guide 3]
+	A. Airspeed Data and Altitude Help Recommendation Signal
+	B. Altitude Direction and Aircraft Horizontal Reporting Source
+	C. Air Data and Attitude Heading Reference System
+
+Approaching KLAS, you experience wake turbulence from a China Eastern Boeing 777,  the red arrows on the GI 275 ADI point to what? [Garmin GI 275 Pilots Guide 55]
+	A. Horizon
+	B. Sky
+	C. Ground
+
+The aircraft is parked on the KLAS Signature ramp with a direct head wind of 70 KTS, what will the airspeed indicate? [PHAK 8-2]
+	A. 0 KIAS the airplane is parked
+	B. 70 KIAS
+	C. Yellow X on GI 275 ADI and 70 KIAS on airspeed
+
+After briefing your flight from KLAS to KDLH, there is concern of IMC conditions and you want to carefully check your instruments. During the instrument cockpit check what is the tolerance for the altimeter? [PHAK 8-7]
+	A. ±150 feet of the standby altimeter
+	B. ±75 feet of field elevation
+	C. ±75 feet of second altimeter
+
+What should the VSI indicate on the instrument cockpit check? [PHAK 8-8]
+	A. Near zero
+	B. Red X
+	C. Occupations while taxing
+
+During the instrument cockpit check the GI 275 ADI should indicate______. [GI 275 STC 44]
+	A. Yellow VSI over the digital vertical speed value
+	B. No yellow or red icons
+	C. Both A and B
+
+What should the Airspeed indicate on the instrument cockpit check? [PHAK 8-10]
+	A. 14 KIAS
+	B. 0 KIAS with no head wind
+	C. Yellow IAS on GI 275
+
+
+
+How do you check the status of the ADAHRS (LRUs) on the GI 275? [GI 275 STC 51]
+	A. Menu > system > info menu
+	B. Menu > system > status
+	C. Menu > settings > db
+
+How do you check the mag compass during the instrument cockpit check? [PHAK 8-24]
+	A. Aligns with know heading
+	B. Swings freely during taxi turns
+	C. Both A and B
+
+How long does it take for the VSI to show trend information? [PHAK 8-8]
+	A. Only show rate information
+	B. Instantly
+	C. 6-9 seconds
+
+How long does it take for the VSI to show rate information? [PHAK 8-8]
+	A. Only show trend information
+	B. Instantly
+	C. 6-9 seconds
+
+Departing KLAS the Director of Maintenance begins to quiz you on system malfunctions. What would the Airspeed indicate if the pitot tube was blocked? (Pitot drain is open) [PHAK 8-10]
+	A. Zero
+	B. Increasing airspeed with altitude
+	C. Frozen on the airspeed it was blocked at
+
+What would the Airspeed indicate if the pitot tube and drain hole was blocked? [PHAK 8-10]
+	A. Zero
+	B. Increasing airspeed with altitude
+	C. Frozen on the airspeed it was blocked at
+
+What would the Airspeed indicate if the static was blocked in a climb? [PHAK 8-11]
+	A. Frozen on the airspeed it was blocked at
+	B. Increasing airspeed with altitude
+	C. Decreasing airspeed with altitude
+
+What would the Altimeter indicate if the static was blocked in a climb? [PHAK 8-11]
+	A. Frozen on the altitude it was blocked at
+	B. Increasing with altitude
+	C. Decreasing with altitude
+
+What would the VSI indicate if the static was blocked in a climb? [PHAK 8-11]
+	A. Zero
+	B. Increasing with altitude
+	C. Frozen on the indication it was blocked at
+
+On the altimeter the static pressure goes into the_________. [PHAK 8-3]
+	A. Android wafer 
+	B. Instrument Casing
+	C. Diaphragm and instrument casing
+
+
+
+On the airspeed indicator the dynamic pressure goes into the_________. [PHAK 8-8]
+	A. Diaphragm 
+	B. Instrument Casing
+	C. Aneroid and instrument casing
+
+On the airspeed indicator the static pressure goes into the_________. [PHAK 8-8]
+	A. Android wafer 
+	B. Instrument Casing
+	C. Diaphragm and instrument casing
+
+On the VSI the static pressure goes into the_________. [PHAK 8-7]
+	A. Android wafer 
+	B. Instrument Casing
+	C. Diaphragm and instrument casing
+
+If the ADC fails, what indication should you see? [GI 275 STC 30]
+	A. Red X over the airspeed and altitude tapes
+	B. Yellow X over the digital vertical speed value
+	C. Both A and B
+
+If the AHRS fails, what indications should you see? [GI 275 STC 29]
+	A. Removal of the attitude/heading information and a red X on the GI 275 ADI
+	B. Yellow X over the digital vertical speed value
+	C. Both A and B
+
+Which are magnetic compass errors? [PHAK 8-24]
+	A. Variation and oscillation 
+	B. Deviation and polarity
+	C. Magnetic Dip and rigidity  
+
+What is the default selection of the GI 275 ADI inner knob? [GI 275 STC 56]
+	A. Altitude bug
+	B. Baro selector
+	C. Heading Bug
+
+How do you set the altitude bug on the GI 275 ADI? [GI 275 STC 59]
+	A. Use the outer knob
+	B. Touch altitude selector and use inner knob
+	C. Press inner knob then turn outer knob
+
+What does a magenta altitude display on the GI 275 ADI indicate? [GI 275 STC 30]
+	A. VNAV
+	B. STD baro setting above FL180
+	C. GPS altitude due to ADC failure
+
+How do you set the heading bug on the GI 275 ADI? [GI 275 STC 59]
+	A. Touch heading selector and use inner knob
+	B. Press the inner knob to snap heading or turn the inner knob
+	C. Use the outer knob
+
+
+
+
+Departing KLAS with an altimeter setting 30.47, you land at KDLH with a current altimeter setting of 29.23, what altitude will you be at? [PHAK 8-2]
+	A. 124 feet high
+	B. 124 feet low
+	C. 1,240 feet low
+
+Arriving at KDLH, the temperature is -30C. What will your altimeter indicate? [PHAK 8-5]
+	A. The altimeter indicates a higher altitude than actual
+	B. The altimeter indicates a lower altitude than actual
+	C. ADAHRS uses GPS to correct for temperature and will indicate properly Limitations
+
+You are very excited to see the new plane and what to get there as quick as possible. What is never exceed speed? [POH 2-4]
+	A. 160 KIAS
+	B. 163 KIAS
+	C. 140 KIAS
+
+What is maximum structural cruising speed? [POH 2-4]
+	A. 110 KIAS
+	B. 97 KIAS	
+	C. 128 KIAS
+
+What is maneuvering speed at 1950lbs? [POH 2-4]
+	A. 89 KIAS
+	B. 97 KIAS
+	C. 83 KIAS
+
+What is maximum flaps extended speed speed? [POH 2-4]
+	A. 110 KIAS	
+	B. 90 KIAS
+	C. 85 KIAS
+
+You suddenly need fresh air, what is maximum window open speed? [POH 2-4]
+	A. 89 KIAS	
+	B. 160 KIAS
+	C. 97 KIAS
+
+A stranger in the Signature lobby asks how much power your engine makes. [POH 2-5]
+	A. 160 BHP
+	B. 180 BHP
+	C. 124 Volts
+
+What is maximum engine speed? [POH 2-5]
+	A. 2500 RPM	
+	B. 2750 RPM
+	C. 2700 RPM
+
+You want to impress the Director of Maintenance and tell him the minimum oil pressure after start is_____. [POH 2-6]
+	A. 25 psi
+	B. 50 psi
+	C. 10 psi
+
+What is the normal operating range for oil temperature? [POH 2-6]
+	A. Green arc
+	B. Above 100° C
+	C. 100° C - 450° C
+
+
+
+
+The Director of Maintenance seem to have a number of duffle bags with him. What is maximum takeoff weight? [POH 2-6]
+	A. 2,550 lbs
+	B. 2,100 lbs
+	C. 2,300 lbs
+
+What is maximum landing weight? [POH 2-6]
+	A. 2,550 lbs
+	B. 2,100 lbs
+	C. 2,300 lbs
+
+What is maximum baggage area 1 weight? [POH 2-6]
+	A. 100 lbs
+	B. 120 lbs
+	C. 50 lbs
+
+What is maximum baggage area 2 weight? [POH 2-6]
+	A. 100 lbs
+	B. 120 lbs
+	C. 50 lbs
+
+What is maximum utility weight? [POH 2-7]
+	A. 2,300 lbs
+	B. 2,000 lbs
+	C. 2,100 lbs
+
+What is maximum baggage compartment weight for utility category? [POH 2-7]
+	A. 0 lbs
+	B. 50 lbs
+	C. 120 lbs
+
+What is flight load factor limits with the flaps up? [POH 2-8]
+	A. + 3.52g
+	B. + 4.0g
+	C. + 3.8g
+
+It is a long flight from KLAS to KDLH with IMC, cold temperatures and fading daylight. What kinds of operations is the airplane equipped for? [POH 2-9]
+	A. Day and night VFR or IFR
+	B. Flight into Know Icing
+	C. Both A and B
+
+The Director of Maintenance gives you a pro tip to maximum fuel capacity when refueling. [POH 2-9]
+	A. Ask for a top off
+	B. Place fuel selector valve in LEFT of RIGHT position 
+	C. Leave the fuel select in the BOTH position
+
+What is takeoff and landing setting for the fuel selector? [POH 2-9]
+	A. LEFT or RIGHT
+	B. BOTH
+	C. LEFT, RIGHT, and BOTH are authorized
+
+
+The ground handlers at Signature ask you what kind of fuel to put in the plane. The correct fuel is_____. [POH 2-9]
+	A. 100LL and 100
+	B. Jet A
+	C. 100/130, 100LL, and 98
+
+What is the minimum software version for GI 275? [GI 275 STC 18]
+	A. v2.0
+	B. v2.40
+	C. v1.2
+
+ATC gives you a short cut through military airspace. Can you use QFE with the GI 275 ADI? [GI 275 STC 18]
+	A. Yes
+	B. No
+	C. Not sure what QFE is
+
+Can you use moving map as the primary or sole means or navigation or course guidance on the GI 275 HSI? [GI 275 STC 18]
+	A. Yes
+	B. No
+	C. Only with a current database
+
+
+
+Aircraft Systems
+
+>>The engineers at the Cirrus factory are really impressed with your C172 and want to ask a few questions that could help improve their designs.
+
+What is the construction of the fuselage? [POH 7-3]
+	A. Monocoque
+	B. Semimonocoque
+	C. Composite
+
+What is the fuselage made out of? [POH 7-3]
+	A. Formed sheet metal
+	B. Carbon fiber
+	C. NASA-918-5000 alloy
+
+What style flaps does the C172N have? [POH 7-10]
+	A. Plain type
+	B. Flower type
+	C. Single-slot type
+
+How are the flight controls actuated? [POH 7-8]
+	A. Electrically via the FCM
+	B. Hydraulically 
+	C. Manually through mechanical linkage
+
+How are the flaps actuated? [POH 7-10]
+	A. By selecting the position with the flap switch lever
+	B. Manually with gravity assist
+	C. Bot A and B
+
+The wing flap system is______. [POH 7-10]
+	A. Mechanical 
+	B. Electric
+	C. Hydraulic 
+
+What type of landing gear does the C172N have? [POH 7-10]
+	A. Traditional gear
+	B. Tricycle type with steerable nose wheel
+	C. Floats
+
+What type of brakes does the C172N have? [POH 7-3]
+	A. Manually actuated disc breaks on the outboard side of each wheel
+	B. Cvanoethvlated kraft paper bushings
+	C. Hydraulically actuated disc breaks on the inboard side of each wheel
+
+How many cylinders does the engine have? [POH 7-16]
+	A. Four
+	B. Eleven
+	C. Six
+
+
+
+
+What controls the amount of air in the carburetor? [POH 7-16]
+	A. Throttle
+	B. Mixture
+	C. Antigravic marzelvanes
+
+What controls the amount of fuel in the carburetor? [POH 7-16]
+	A. Throttle
+	B. Mixture
+	C. Reciprocating dingle arm
+
+What is the capacity if the engine oil sump? [POH 7-18]
+	A. 4 quarts
+	B. 5 quarts
+	C. 6 quarts
+
+What is the minimum oil quantity to operate? [POH 7-18]
+	A. 4 quarts
+	B. 5 quarts
+	C. 6 quarts
+
+What are the R and L positions for on the ingestion switch? [POH 7-19]
+	A. Checking purpose and emergency use only
+	B. Runup
+	C. Reduction of Sinusoidal Deoleneratior
+
+What is the standard total usable fuel? [POH 7-20]
+	A. 43 gallons
+	B. 40 gallons
+	C. 37 gallons
+
+What is the total unusable fuel? [POH 7-20]
+	A. 1.5 gallons
+	B. 1.1 gallons
+	C. 3 gallons
+
+What is the total fuel? [POH 7-20]
+	A. 43 gallons
+	B. 40 gallons
+	C. 37 gallons
+
+What controls fuel flow? [POH 7-22]
+	A. Gravity
+	B. Ambitacient wane shafts
+	C. Scavenger pumps 
+
+How does the fuel flow in the LEFT selector valve position? [POH 7-22]
+	A. Right tank, through a cross feed to balance the tanks
+	B. Left tank, to the fuel pump
+	C. Left tank, through a strainer to the carburetor
+
+How many volts in the electrical system? [POH 7-23]
+	A. 12 volts
+	B. 24 volts
+	C. 28 volts
+
+What type of current is the electrical system? [POH 7-23]
+	A. DC
+	B. AC
+	C. ACDC
+
+What instrument will run with the master off? [POH 7-24]
+	A. Hobbs
+	B. Clock
+	C. Oil pressure gauge 
+
+What bus bar is energized when the master is turned on? [POH 7-25]
+	A. Primary bus
+	B. Hot Bus
+	C. Avionics Bus
+
+What does the left half of the master switch control? [POH 7-25]
+	A. Alternator
+	B. Battery
+	C. Interelectrode diffusion integrator
+
+What supplies windshield defrost air? [POH 7-31]
+	A. Ouasistatic regeneration oscillator
+	B. Electric heater
+	C. Cabin manifold
+
+What type of stall warning system do we have? [POH 7-34]
+	A. Pneumatic-type
+	B. Unilateral phase detractor
+	C. Electric
+
+What is recommended to improve radio communities during IMC flight? [POH 7-25]
+	A. Use COM 2
+	B. Wick-type static discharges
+	C. Dim cabin lights
