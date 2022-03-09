@@ -92,7 +92,7 @@ What is the significance of the yellow arc on the airspeed indicator? [POH 2-5]
 	B. Smooth air operations only
 	C. Full flap operating range
 
-En route to KLAS, Skywest 3420 report GPS outages along your route. How does the GI 275 get heading information? [Garmin GI 275 Pilots Guide 3]
+En route to KLAS, Skywest 3420 report GPS outages along your route. How does the GL275 get heading information? [Garmin GL 275 Pilots Guide 3]
 	A. ADAHRS
 	B. GPS
 	C. Magnetometer
