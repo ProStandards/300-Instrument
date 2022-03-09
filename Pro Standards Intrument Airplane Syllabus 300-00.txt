@@ -30,10 +30,14 @@ Ground Lessons
 Stage One
 
 Overview
+There are three sections of stage one. First, the student will build aeronautical experience on long VFR cross-countries. Second,  the student will build foundations for aircraft control in IMC conditions including upset recovery. The student will also be introduced to ATC clearances and departure procedures.
 
 Objectives
+The stage one objective is to teach the student aeronautical knowledge related to pre-flight procedures, aircraft systems related to IFR operations, upset recovery, ATC clearances and departure procedures.. Additionally, introduce the student to aeronautical experience and build a foundation for flight path management, CRM, SRM, ADM, and task management. 
 
-Completion StandardsIntroduction to Instrument Flight
+Completion Standards
+The student should be able to control the aircraft to ACS standards while multitasking. The student will also pass the Systems Validation with a minimum of 80%.
+ Introduction to Instrument Flight
 
 Introduction to Instrument Flight
 Stage 1 Lesson 1
@@ -68,7 +72,7 @@ Fitness for Flight
 
 
 Completion Standards
-The student demonstrates an understanding of the knowledge elements required for Fundamentals of Flight, Safety of Flight Items, and the required aeronautical knowledge elements relating to Operation of Systems and National Airspace system. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.	
+The student demonstrates an understanding of the knowledge of human factors, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.
 Introduction to Instrument Flight 
 Stage 1 Lesson 2
 Maneuver Brief 
@@ -138,7 +142,7 @@ Normal Approach and Landing
 After Landing, Parking and Securing
 
 Completion Standards
-Introduction to Instrument Flight
+Safely complete a VFR cross-county. Correct any SOP devotions.Introduction to Instrument Flight
 Stage 1 Lesson 4
 Dual Flight 
 Lesson Time 2.0
@@ -172,7 +176,7 @@ Normal Approach and Landing
 After Landing, Parking and Securing
 
 Completion Standards
-Basic Attitude Instrument
+Safely complete a VFR cross-county. Correct any SOP devotions.Basic Attitude Instrument
 
 Basic Attitude Instrument
 Stage 1 Lesson 5
@@ -208,7 +212,7 @@ Electronic Instrument Failures and System Errors
 
 
 Completion Standards
-Basic Attitude Instrument
+The student demonstrates an understanding of the knowledge of flight instrument systems, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Basic Attitude Instrument
 Stage 1 Lesson 6
 Maneuvers Brief 
 Lesson Time 2.0
@@ -264,7 +268,8 @@ Compliance with Air Traffic Control Clearances
 Checklist Usage
 SOP Callouts
 
-Completion StandardsBasic Attitude Instrument
+Completion Standards
+This Lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Basic Attitude Instrument
 Stage 1 Lesson 8
 Flight Lesson
 Lesson Time 2.0
@@ -292,7 +297,8 @@ Compliance with Air Traffic Control Clearances
 Checklist Usage
 SOP Callouts
 
-Completion StandardsBasic Attitude Instrument
+Completion Standards
+This Lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Basic Attitude Instrument
 Stage 1 Lesson 9
 Ground Lesson
 Lesson Time 2.0
@@ -318,7 +324,9 @@ ILS/ILS Components
 Operational Errors 
 SDF/LDA 
 Radar 
-Basic Attitude Instrument
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of traditional navigation systems, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Basic Attitude Instrument
 Stage 1 Lesson 10
 Flight Lesson
 Lesson Time 2.0
@@ -344,7 +352,8 @@ BAI Patterns
 Steep Turns
 Compliance with Air Traffic Control Clearances
 
-Completion StandardsBasic Attitude Instrument
+Completion Standards
+This Lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Basic Attitude Instrument
 Stage 1 Lesson 11
 Maneuver Briefing
 Lesson Time 2.0
@@ -395,7 +404,8 @@ Loss of Primary Flight Instrument Indications
 Checklist Usage
 Standard Callouts
 
-Completion StandardsBasic Attitude Instrument
+Completion Standards
+This Lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Basic Attitude Instrument
 Stage 1 Lesson 13
 Ground Lesson
 Lesson Time 2.0
@@ -414,7 +424,8 @@ Global Positioning System (GPS)
 WAAS 
 Required Navigation Performance
 
-Completion StandardsBasic Attitude Instrument
+Completion Standards
+The student demonstrates an understanding of the knowledge of next generation navigation systems, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Basic Attitude Instrument
 Stage 1 Lesson 14
 Flight Lesson
 Lesson Time 2.0
@@ -440,7 +451,8 @@ Loss of Primary Flight Instrument Indications
 Checklist Usage
 Standard Callouts
 
-Completion StandardsSystems Validation
+Completion Standards
+This Lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Systems Validation
 
 SV
 Stage 1 Lesson 15
@@ -470,40 +482,42 @@ Lesson Time 2.0
 Upset and IFR Emergencies
 
 Objectives
-
+To have the student demonstrate the proper upset recovery skills and correlate the aeronautical knowledge related to upset recovery and IFR emergencies.
 
 SBT
->>
+>> Colgan Air 3407
 
 Tasks
+Extended Envelope Training
 Upsets
 Upset Recovery
-Upset Recovery [Partial Panel]
-EET
 Declaring an Emergency 
 Minimum Fuel 
-Gyroscopic Instrument Failure 
-Emergency Approach Procedures 
+Instrument Failure
+Loss of Reliable Airspeed
 Communications Failure 
 Malfunction Reports 
-Electronic Flight Instrument Operational Considerations
 
-
-Completion StandardsUpset Recovery
+Completion Standards
+The student demonstrates an understanding of the knowledge of upset recovery and IFR emergencies, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Upset Recovery
 Stage 1 Lesson 17
 Maneuver Brief
-Lesson Time 2.0
+Lesson Time 0.5
 
 
 Objectives
-
+Review the SOP procedures for the maneuvers to be performed on the next flight.
 
 SBT
 >>
 
 Tasks
+Slow Flight [Instrument Reference]
+Loss of Reliable Airspeed [Instrument Reference]
 Upset Recovery
 Upset Recovery [Partial Panel]
+Recovery from full stall [Instrument Reference]
+Recovery From Bounced landing
 
 Completion StandardsUpset Recovery
 Stage 1 Lesson 18
@@ -518,10 +532,15 @@ SBT
 >>
 
 Tasks
+Slow Flight [Instrument Reference]
+Loss of Reliable Airspeed [Instrument Reference]
 Upset Recovery
 Upset Recovery [Partial Panel]
+Recovery from full stall [Instrument Reference]
+Recovery From Bounced landing
 
-Completion StandardsUpset Recovery
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected. Upset recovery must be performed without error.Upset Recovery
 Stage 1 Lesson 19
 Flight Lesson
 Lesson Time 2.0
@@ -537,7 +556,8 @@ Tasks
 Upset Recovery
 Upset Recovery [Partial Panel]
 
-Completion StandardsUpset Recovery
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Upset Recovery
 Stage 1 Lesson 20
 Ground Lesson
 Lesson Time 2.0
@@ -561,7 +581,10 @@ Runway Incursion Avoidance
 Land and Hold Short Operations (LAHSO) 
 Approach Light Systems 
 Visual Glide Slope Indicators 
-IFR Operations in the National Airspace System Upset Recovery
+IFR Operations in the National Airspace System 
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of the IFR environment, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Upset Recovery
 Stage 1 Lesson 21
 Ground Lesson 
 Lesson Time 2.0
@@ -587,13 +610,18 @@ Tower Enroute Control Clearance (TEC)
 Departure Restrictions 
 Clearance Void Time 
 Clearance Read back 
-Clearance ShorthandStage Two
+Clearance Shorthand
+
+Completion StandardsStage Two
 
 Overview
+In stage two the student will learn en route procedures including holding procedures and DME arcs.
 
 Objectives
+The objective is to teach the student the aeronautical knowledge related to airports and the airport environments,  en route procedures, holding procedures and IFR regulations. The student should also be introduced to en route and holding procedures.
 
-Completion StandardsDepartures
+Completion Standards
+The student can complete all the maneuvers to ACS StandardsDepartures
 
 Departures
 Stage 2 Lesson 22
@@ -619,7 +647,10 @@ Runway Incursion Avoidance
 Land and Hold Short Operations (LAHSO) 
 Approach Light Systems 
 Visual Glide Slope Indicators 
-IFR Operations in the National Airspace System Departures
+IFR Operations in the National Airspace System 
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of the IFR environment, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Departures
 Stage 2 Lesson 23
 Ground Lesson
 Lesson Time 2.0
@@ -639,7 +670,9 @@ U.S. Standards for Terminal Instrument Procedures (TERPS)
 Takeoff Minimums 
 Departure Options 
 IFR Departure Procedures 
-Departures
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of departure procedures, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Departures
 Stage 2 Lesson 24
 Maneuvers Brief 
 Lesson Time 2.0
@@ -683,7 +716,7 @@ Checklist Usage
 Standard Callouts 
 
 Completion Standards
-This Lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to airplane navigation equipment and intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations by performing the tasks solely by reference to instruments in accordance with the ERAU Standardization Manual and Instrument Rating Airplane Airman Certification Standards.
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.
 Departures
 Stage 2 Lesson 26
 Flight Lesson
@@ -734,7 +767,7 @@ Checklist Usage
 Standard Callouts 
 
 Completion Standards
-This Lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to airplane navigation equipment and intercepting and tracking navigational systems, arcs, and departure, en route, and arrival operations by performing the tasks solely by reference to instruments in accordance with the ERAU Standardization Manual and Instrument Rating Airplane Airman Certification Standards.En Route
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.En Route
 
 En Route
 Stage 2 Lesson 28
@@ -763,8 +796,10 @@ Communication
 Radar and Non-Radar Reports 
 Reporting Procedures 
 IFR Cruising Altitudes 
-Descending From the Enroute Segment
-En Route
+Descending From the En Route Segment
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of en route planning, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.En Route
 Stage 2 Lesson 29
 Ground Lesson
 Lesson Time 2.0
@@ -783,7 +818,9 @@ Holding Pattern Terminology
 Holding Pattern Entry Procedures 
 Crosswind Correction 
 Maximum Holding Speeds 
-En Route
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of holding procedures, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.En Route
 Stage 2 Lesson 30
 Maneuvers Brief
 Lesson Time 2.0
@@ -829,7 +866,7 @@ Checklist Usage
 Standard Callouts
 
 Completion Standards
-The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.
 En Route
 Stage 2 Lesson 32
 Flight Lesson
@@ -857,7 +894,7 @@ Checklist Usage
 Standard Callouts
 
 Completion Standards
-The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.En Route
 Stage 2 Lesson 33
 Ground Lesson
 Lesson Time 2.0
@@ -898,6 +935,9 @@ Part 91.185 – Two-Way Radio Communications Failure
 Part 91.187 – IFR in Controlled Airspace: Malfunction Reports 
 Part 91.205 – Instrument & Equipment Requirements 
 NTSB 830 – Notification and Reporting of Accidents or Incidents 
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of IFR regulations, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.
 En Route
 Stage 2 Lesson 34
 Flight Lesson
@@ -925,7 +965,7 @@ Checklist Usage
 Standard Callouts
 
 Completion Standards
-The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.En Route
 Stage 2 Lesson 35
 Maneuvers Brief
 Lesson Time 2.0
@@ -966,7 +1006,7 @@ Checklist Usage
 Standard Callouts
 
 Completion Standards
-The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.En Route
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.En Route
 Stage 2 Lesson 36
 Flight Lesson
 Lesson Time 2.0
@@ -991,7 +1031,7 @@ Checklist Usage
 Standard Callouts
 
 Completion Standards
-The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Maneuvers Validation
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Maneuvers Validation
 
 MV
 Stage 2 Lesson 37
@@ -1023,10 +1063,13 @@ Completion Standards
 The student demonstrates an understanding of the knowledge and skills required to conduct holding procedures. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Stage Three
 
 Overview
+In stage three the student will be introduced to instrument approaches.
 
 Objectives
+The objective of stage three is to teach the student the aeronautical knowledge related to instrument approaches and weather. Additionally, introduce the student to precision and non precision instrument approaches. 
 
-Completion StandardsArrivals
+Completion Standards
+The student should be able to perform the maneuvers to ACS standards.Arrivals
 
 Arrivals
 Stage 3 Lesson 38
@@ -1047,7 +1090,9 @@ Standard Terminal Arrival Route (STAR)
 Interpreting the STAR 
 Vertical Navigation Planning 
 Arrival Procedures
-Arrivals
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of arrival procedures, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Arrivals
 Stage 3 Lesson 39
 Maneuver Brief
 Lesson Time 2.0
@@ -1086,7 +1131,7 @@ Standard Operating Procedures
 Checklist Usage
 
 Completion Standards
-Arrivals
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Arrivals
 Stage 3 Lesson 41
 Flight Lesson
 Lesson Time 2.0
@@ -1105,7 +1150,7 @@ Standard Operating Procedures
 Checklist Usage
 
 Completion Standards
-Approaches
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Approaches
 
 Approaches
 Stage 3 Lesson 42
@@ -1148,7 +1193,10 @@ Final Approach
 Circling Approaches 
 Sidestep Maneuver 
 Missed Approach Procedures 
-GPS Operational Considerations Approaches
+GPS Operational Considerations 
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of approach procedures, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.Approaches
 Stage 3 Lesson 43
 Maneuver Brief
 Lesson Time 2.0
@@ -1194,7 +1242,7 @@ Checklist Usage
 Standard Operating Procedures
 
 Completion Standards
-Approaches
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Approaches
 Stage 3 Lesson 45
 Flight Lesson
 Lesson Time 2.0
@@ -1235,10 +1283,13 @@ VOR Approaches
 GPS and RNAV Approaches 
 VOR/DME RNAV Approaches 
 NDB Approaches 
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of non-precision approaches, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.
 Approaches
 Stage 3 Lesson 47
 Maneuver Brief
-Lesson Time 2.0
+Lesson Time 1.0
 
 
 Objectives
@@ -1278,7 +1329,8 @@ Landing From a Straight-In Approach
 Checklist Usage
 Standard Operating Procedures
 
-Completion StandardsApproaches
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Approaches
 Stage 3 Lesson 49
 Flight Lesson
 Lesson Time 2.0
@@ -1352,7 +1404,8 @@ Landing From a Straight-In Approach
 Checklist Usage
 Standard Operating Procedures
 
-Completion StandardsApproaches
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Approaches
 Stage 3 Lesson 52
 Flight Lesson
 Lesson Time 2.0
@@ -1376,7 +1429,8 @@ Landing From a Straight-In Approach
 Checklist Usage
 Standard Operating Procedures
 
-Completion StandardsProcedures Validation
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Procedures Validation
 
 PV
 Stage 3 Lesson 53
@@ -1405,10 +1459,13 @@ Standard Operating Procedures
 Completion StandardsStage Four
 
 Overview
+In stage four the student will focus on instrument cross-countries, culminating in a multi-day 1,000 NM cross-country. 
 
 Objectives
+The stage four objective is to teach the student the aeronautical knowledge related to hazardous weather and IFR flight planning. Additionally, the student should develop aeronautical experience acting as PIC during IFR operations.
 
-Completion StandardsLOFT
+Completion Standards
+The student completes all the requirements to take the check ride and preforms all the maneuvers to ACS standards.LOFT
 
 LOFT
 Stage 4 Lesson 54
@@ -1438,7 +1495,9 @@ Transcribed Weather Broadcasts (TWEB)
 Automated Surface Observation System (ASOS) 
 Automated Weather Observing Systems (AWOS) 
 Weather Radar Services
-LOFT
+
+Completion Standards
+The student demonstrates an understanding of the knowledge of critical weather recognition, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.LOFT
 Stage 4 Lesson 55
 Ground Lesson
 Lesson Time 4.0
@@ -1468,7 +1527,8 @@ Closing an IFR Flight Plan
 GPS Operational Considerations 
 
 
-Completion StandardsLOFT
+Completion Standards
+The student demonstrates an understanding of the knowledge of IFR flight planning, the elements required by 61.65, and the instructor has introduced all the of tasks to the student.LOFT
 Stage 4 Lesson 56
 Flight Lesson
 Lesson Time 2.0
@@ -1492,7 +1552,8 @@ Loss of Communications
 Checklist Usage
 Standard Operating Procedures
 
-Completion StandardsLOFT
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.LOFT
 Stage 4 Lesson 57
 Flight Lesson
 Lesson Time 20.0
@@ -1520,7 +1581,8 @@ Loss of Communications
 Checklist Usage
 Standard Operating Procedures
 
-Completion StandardsLOFT
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.LOFT
 Stage 4 Lesson 58
 Flight Lesson
 Lesson Time 4.0
@@ -1543,7 +1605,8 @@ Loss of Communications
 Pilot Qualifications
 Course Deficient Items
 
-Completion StandardsKnowledge Validation
+Completion Standards
+This lesson will be graded with Airman Certification Standards being satisfactory. The student demonstrates an understanding of the elements related to the tasks, ADM, CRM, SRM and the special emphasis areas. SOP deviation items must be corrected.Knowledge Validation
 
 KV
 Stage 4 Lesson 59
@@ -1579,7 +1642,7 @@ Objectives
 To determine through flight evaluation that the student possesses the required aeronautical skills to safely conduct flight operations as an FAA rated Instrument Pilot. All Skills will be performed in accordance with the Instrument Rating Airplane Airman Certification Standards.
 
 SBT
->>
+>> Plan an IFR flight to KRNM
 
 Tasks
 Instrument Flight Deck Check
