@@ -62,8 +62,8 @@ Human Factors
 Threat and Error Management 
 Aeronautical Decision Making
 Situational Awareness
-Single-Pilot Recourse Management
-Crew Recourse Management
+Single-Pilot Resource Management
+Crew Resource Management
 Crew Communication
 Workload Management 
 Controlled Flight into Terrain
@@ -101,7 +101,7 @@ Climb (SOP)
 Cruise (SOP)
 Decent (SOP)
 Approach (SOP)
-Deviations and Call outs (SOP)
+Deviations and Callouts (SOP)
 After Landing (SOP)
 Shutdown/Secure (SOP)
 Flight Deck Management
@@ -115,7 +115,7 @@ Lesson Time 2.0
 
 
 Objectives
-The Student should gain experience by conducting VFR cross-countries, focusing on SOP and standard call outs. 
+The student should gain experience by conducting VFR cross-countries, focusing on SOP and standard call outs. 
 
 SBT
 >> XC to KSBA
@@ -128,7 +128,7 @@ Controlled Flight into Terrain Awareness
 Weather Information
 Performance and Limitations
 Human Factors
-Standard Operating Procedurs
+Standard Operating Procedures
 Preflight Assessment
 Flight Deck Management
 Engine Starting
@@ -149,7 +149,7 @@ Lesson Time 2.0
 
 
 Objectives
-The Student should gain experience by conducting VFR cross-countries, focusing on SOP and standard call outs. 
+The student should gain experience by conducting VFR cross-countries, focusing on SOP and standard call outs. 
 
 SBT
 >> XC to KAVX - L35
@@ -162,7 +162,7 @@ Controlled Flight into Terrain Awareness
 Weather Information
 Performance and Limitations
 Human Factors
-Standard Operating Procedurs
+Standard Operating Procedures
 Preflight Assessment
 Flight Deck Management
 Engine Starting
@@ -395,7 +395,7 @@ Instrument Cockpit Check
 System and Equipment Malfunctions
 Straight and Level Flight [Partial Panel]
 Change of Airspeed and Configuration [Partial Panel]
-Straight Climbs and Descending [Partial Panel]
+Straight Climbs and Decents [Partial Panel]
 Climbing and Descending Turns [Partial Panel] 
 Vertical S [Partial Panel]
 Timed Turns
@@ -442,7 +442,7 @@ Instrument Cockpit Check
 System and Equipment Malfunctions
 Straight and Level Flight [Partial Panel]
 Change of Airspeed and Configuration [Partial Panel]
-Straight Climbs and Descending [Partial Panel]
+Straight Climbs and Descents [Partial Panel]
 Climbing and Descending Turns [Partial Panel] 
 Vertical S [Partial Panel]
 Timed Turns
@@ -606,7 +606,7 @@ Abbreviated IFR Departure Clearance
 Cruise Clearance 
 VFR on Top Clearance 
 Composite Flight Plan 
-Tower Enroute Control Clearance (TEC) 
+Tower En Route Control Clearance (TEC) 
 Departure Restrictions 
 Clearance Void Time 
 Clearance Read back 
@@ -783,7 +783,7 @@ SBT
 >>
 
 Tasks
-Enroute Charts 
+En Route Charts 
 Front Panel 
 Navigation Aids 
 Victor Airways 
@@ -791,7 +791,7 @@ Communication
 Airports 
 Airspace 
 Area Charts 
-Enroute Procedures 
+En Route Procedures 
 Communication 
 Radar and Non-Radar Reports 
 Reporting Procedures 
@@ -1345,12 +1345,12 @@ Tasks
 Instrument Cockpit Check
 Compliance with ATC Clearances
 Instrument Takeoff
-Departure, En route and Arrival Procedures 
+Departure, En Route and Arrival Procedures 
 Holding
 Non-Precision Approach (VOR)
 Approach with Loss of Primary Flight Instrument Indications
 Missed Approach
-Landing From a Straight-In Approach
+Landing from a Straight-In Approach
 Checklist Usage
 Standard Operating Procedures
 
@@ -1395,12 +1395,12 @@ Tasks
 Instrument Cockpit Check
 Compliance with ATC Clearances
 Instrument Takeoff
-Departure, En route and Arrival Procedures 
+Departure, En Route and Arrival Procedures 
 Holding
 Non-Precision Approach (LOC)
 Approach with Loss of Primary Flight Instrument Indications
 Missed Approach
-Landing From a Straight-In Approach
+Landing from a Straight-In Approach
 Checklist Usage
 Standard Operating Procedures
 
@@ -1447,12 +1447,12 @@ Tasks
 Instrument Cockpit Check
 Compliance with ATC Clearances
 Instrument Takeoff
-Departure, En route and Arrival Procedures 
+Departure, En Route and Arrival Procedures 
 Holding
 Non-Precision Approach (Other)
 Approach with Loss of Primary Flight Instrument Indications
 Missed Approach
-Landing From a Straight-In Approach
+Landing from a Straight-In Approach
 Checklist Usage
 Standard Operating Procedures
 
@@ -1489,7 +1489,7 @@ Clouds and Fog
 Structural Icing 
 Preflight Weather Briefing 
 Airmet (WA), Sigmet (WS), Convective Sigmet (WST) 
-Enroute Flight Advisory Service (EFAS) 
+En route Flight Advisory Service (EFAS) 
 Hazardous In-Flight Weather Advisory Service (HIWAS) 
 Transcribed Weather Broadcasts (TWEB) 
 Automated Surface Observation System (ASOS) 
@@ -1518,7 +1518,7 @@ Pre-planning Preparation
 IFR Route Selection 
 Departure Segment 
 Arrival Segment 
-En route Segment 
+En Route Segment 
 Applicable Federal Aviation Regulations 
 IFR Flight Planning Process 
 Navigation Log 
@@ -1596,7 +1596,7 @@ SBT
 Tasks
 Weather Information
 Cross-Country Flight Planning
-Airplane systems related to IFR Operations
+Airplane Systems Related to IFR Operations
 Airplane Flight Instruments and Navigation Equipment
 Compliance with ATC Clearances
 Departure, En Route and Arrival Procedures
@@ -1656,8 +1656,8 @@ Precision Approaches
 Non-Precision Approaches
 Circling Approach
 Missed Approach
-Landing From a Straight-In or Circling Approach
-Recovery From Unusual Attitudes
+Landing from a Straight-In or Circling Approach
+Recovery from Unusual Attitudes
 Approach with Loss of Primary Flight Instrument Indications
 Checking Instruments and Equipment
 
